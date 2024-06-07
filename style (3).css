@@ -1,0 +1,12 @@
+#video{
+    width:200%;
+    height:500px;
+    border: none;
+}
+body{
+    background-color: rgb(255, 247, 129);
+    text-align: center;
+}
+h1{
+    color: rgb(22, 21, 0);
+}
